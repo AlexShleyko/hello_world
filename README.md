@@ -1,2 +1,2 @@
 # hello_world
-training
+My first training project
